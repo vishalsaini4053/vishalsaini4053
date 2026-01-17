@@ -21,12 +21,11 @@ With over 12 years of experience in building high-scale Order Management Systems
 ---
 
 ### ⚡ GitHub Stats
-![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishalsaini4053&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalsaini4053&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Connect with me
 - 💼 [LinkedIn](https://linkedin.com/in/vishal-saini-9b726630)
 - 📧 [Email](mailto:vishalsaini4053@gmail.com)
-- 📍 California, US / Delhi-NCR, India
